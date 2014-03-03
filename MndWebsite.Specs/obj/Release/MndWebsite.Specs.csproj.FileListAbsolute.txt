@@ -1,0 +1,11 @@
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Release\MndWebsite.Specs.dll
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Release\MndWebsite.Specs.pdb
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Release\Machine.Specifications.dll
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Release\Machine.Specifications.pdb
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\obj\Release\MndWebsite.Specs.dll
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\obj\Release\MndWebsite.Specs.pdb
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Release\DecisionTree.dll
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Release\MndWebsite.dll
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Release\DecisionTree.pdb
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Release\MndWebsite.pdb

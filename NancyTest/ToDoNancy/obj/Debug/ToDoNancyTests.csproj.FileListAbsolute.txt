@@ -1,0 +1,15 @@
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\bin\Debug\TodoNancyTests.dll
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\bin\Debug\TodoNancyTests.pdb
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\bin\Debug\CsQuery.dll
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\bin\Debug\Nancy.dll
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\bin\Debug\Nancy.Testing.dll
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\bin\Debug\TodoNancy.dll
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\bin\Debug\xunit.dll
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\bin\Debug\TodoNancy.pdb
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\bin\Debug\CsQuery.xml
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\bin\Debug\Nancy.xml
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\bin\Debug\Nancy.Testing.xml
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\bin\Debug\xunit.xml
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\obj\Debug\TodoNancyTests.dll
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\obj\Debug\TodoNancyTests.pdb

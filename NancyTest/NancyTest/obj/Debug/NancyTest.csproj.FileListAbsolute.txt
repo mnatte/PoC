@@ -1,0 +1,9 @@
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\NancyTest\bin\NancyTest.dll
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\NancyTest\bin\NancyTest.pdb
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\NancyTest\bin\Nancy.dll
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\NancyTest\bin\Nancy.Hosting.Aspnet.dll
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\NancyTest\bin\Nancy.xml
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\NancyTest\bin\Nancy.Hosting.Aspnet.xml
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\NancyTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\NancyTest\obj\Debug\NancyTest.dll
+C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\NancyTest\obj\Debug\NancyTest.pdb

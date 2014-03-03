@@ -1,0 +1,13 @@
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Debug\MndWebsite.Specs.dll
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Debug\MndWebsite.Specs.pdb
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Debug\Machine.Specifications.dll
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Debug\Machine.Specifications.pdb
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\obj\Debug\MndWebsite.Specs.dll
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\obj\Debug\MndWebsite.Specs.pdb
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Debug\DecisionTree.dll
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Debug\MndWebsite.dll
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Debug\DecisionTree.pdb
+C:\Projects\MND\source\MND_website\MndWebsite.Specs\bin\Debug\MndWebsite.pdb
+C:\Projects\MND Website\MndWebsite.Specs\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\MND Website\MndWebsite.Specs\obj\Debug\MndWebsite.Specs.dll
