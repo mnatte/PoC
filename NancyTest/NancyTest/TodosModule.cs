@@ -26,6 +26,7 @@ namespace TodoNancy
                     return Response.AsJson(newTodo).WithStatusCode(HttpStatusCode.Created);
                 };
 
+            // p.id refers to the {id} part, it is a dynamic parametercollection. could also be written as p["id"] (same as JavaScript)
             Put["/{id}"] = p =>
                 {
                     if (!Store.ContainsKey(p.id))

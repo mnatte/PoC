@@ -13,3 +13,18 @@ C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\bin\Debug
 C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\obj\Debug\TodoNancyTests.dll
 C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\ToDoNancy\obj\Debug\TodoNancyTests.pdb
+C:\Projects\PoCs\NancyTest\ToDoNancy\bin\Debug\TodoNancyTests.dll
+C:\Projects\PoCs\NancyTest\ToDoNancy\bin\Debug\TodoNancyTests.pdb
+C:\Projects\PoCs\NancyTest\ToDoNancy\bin\Debug\CsQuery.dll
+C:\Projects\PoCs\NancyTest\ToDoNancy\bin\Debug\Nancy.dll
+C:\Projects\PoCs\NancyTest\ToDoNancy\bin\Debug\Nancy.Testing.dll
+C:\Projects\PoCs\NancyTest\ToDoNancy\bin\Debug\TodoNancy.dll
+C:\Projects\PoCs\NancyTest\ToDoNancy\bin\Debug\xunit.dll
+C:\Projects\PoCs\NancyTest\ToDoNancy\bin\Debug\TodoNancy.pdb
+C:\Projects\PoCs\NancyTest\ToDoNancy\bin\Debug\CsQuery.xml
+C:\Projects\PoCs\NancyTest\ToDoNancy\bin\Debug\Nancy.xml
+C:\Projects\PoCs\NancyTest\ToDoNancy\bin\Debug\Nancy.Testing.xml
+C:\Projects\PoCs\NancyTest\ToDoNancy\bin\Debug\xunit.xml
+C:\Projects\PoCs\NancyTest\ToDoNancy\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\PoCs\NancyTest\ToDoNancy\obj\Debug\TodoNancyTests.dll
+C:\Projects\PoCs\NancyTest\ToDoNancy\obj\Debug\TodoNancyTests.pdb

@@ -7,3 +7,12 @@ C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\NancyTest\bin\Nancy
 C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\NancyTest\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\NancyTest\obj\Debug\TodoNancy.dll
 C:\Users\MND\Documents\Visual Studio 2010\Projects\NancyTest\NancyTest\obj\Debug\TodoNancy.pdb
+C:\Projects\PoCs\NancyTest\NancyTest\bin\TodoNancy.dll
+C:\Projects\PoCs\NancyTest\NancyTest\bin\TodoNancy.pdb
+C:\Projects\PoCs\NancyTest\NancyTest\bin\Nancy.dll
+C:\Projects\PoCs\NancyTest\NancyTest\bin\Nancy.Hosting.Aspnet.dll
+C:\Projects\PoCs\NancyTest\NancyTest\bin\Nancy.xml
+C:\Projects\PoCs\NancyTest\NancyTest\bin\Nancy.Hosting.Aspnet.xml
+C:\Projects\PoCs\NancyTest\NancyTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\PoCs\NancyTest\NancyTest\obj\Debug\TodoNancy.dll
+C:\Projects\PoCs\NancyTest\NancyTest\obj\Debug\TodoNancy.pdb
