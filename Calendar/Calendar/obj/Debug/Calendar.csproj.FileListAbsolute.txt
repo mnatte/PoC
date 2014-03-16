@@ -1,0 +1,10 @@
+C:\Projects\Calendar\Calendar\Calendar\bin\Calendar.dll
+C:\Projects\Calendar\Calendar\Calendar\bin\Calendar.pdb
+C:\Projects\Calendar\Calendar\Calendar\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Calendar\Calendar\Calendar\obj\Debug\Calendar.dll
+C:\Projects\Calendar\Calendar\Calendar\obj\Debug\Calendar.pdb
+C:\Projects\PoCs\Calendar\Calendar\bin\Calendar.dll
+C:\Projects\PoCs\Calendar\Calendar\bin\Calendar.pdb
+C:\Projects\PoCs\Calendar\Calendar\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\PoCs\Calendar\Calendar\obj\Debug\Calendar.dll
+C:\Projects\PoCs\Calendar\Calendar\obj\Debug\Calendar.pdb
