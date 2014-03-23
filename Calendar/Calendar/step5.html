@@ -14,7 +14,7 @@
     }
 
     function drag(ev) {
-        console.log(ev.target);
+        //console.log(ev.target);
         ev.dataTransfer.setData("card", ev.target.id);
     }
 
@@ -24,7 +24,7 @@
         var data = ev.dataTransfer.getData("card");
         console.log(data);
         ev.target.appendChild(document.getElementById(data));
-        alert(content);
+        alert(ko.contextFor(ev.target).$data.content());
         //addEventToCalendar();
     }
 
@@ -37,7 +37,7 @@
 
     $(document).ready(function () {
         var viewModel = {
-            editable: ko.observable(false),
+            editable: ko.observable(true),
             content: ko.observable("Initial Title"),
         };
         //console.log(viewModel.content());
@@ -253,10 +253,10 @@ ol li a{color:#fff;}
       </div>
     </li>
     <li id="card7" draggable="true" ondragstart="drag(event)">
-      <div>
-        <h2>Title #7</h2>
-        <p>Text Content #7</p>
-      </div>
+        <div>
+            <h2 data-bind="contentEditable: editable, htmlLazy: content">#7 Title</h2>
+            <p contenteditable="true">Text Content #7</p>
+        </div>
     </li>
     <li id="card8" draggable="true" ondragstart="drag(event)">
         <div>
