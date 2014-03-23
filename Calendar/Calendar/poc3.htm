@@ -1,0 +1,29 @@
+﻿<!doctype html>
+<html>
+    <head>
+        <title>HTML5 Semantics: The contenteditable Attribute</title>
+        <meta charset="utf-8">
+        <style>
+            [contenteditable=true] {
+                outline: 1px dotted #cccccc;
+            }
+            [contenteditable=true]:hover {
+                outline: 1px dotted #ff0000;
+            }        
+            [contenteditable="true"]:hover  
+            {
+                outline: 2px dashed #0090D2; 
+                background-color: #cccccc;
+            }        
+        </style>
+    </head>
+    <body>
+        <p contenteditable="true">This content is editable!</p>
+        <ul contenteditable="true">
+            <li>By default, this content is editable via its
+            inherited parent elements value.</li>
+            <li contenteditable="false">This content is <b>not</b>
+            editable via its explicit contenteditable value.</li>
+        </ul>
+    </body>
+</html>

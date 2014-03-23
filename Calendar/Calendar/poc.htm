@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>PoC</title>
+    <script type='text/javascript' src='libs/jquery-1.4.4.min.js'></script>
+
+    <script language="javascript" type="text/javascript">
+        $("#ex1").draggable()
+  .click(function () {
+      $(this).draggable({ disabled: false });
+  }).dblclick(function () {
+      $(this).draggable({ disabled: true });
+  });
+</script>
+</head>
+<body>
+
+<div id="ex1" contenteditable="true">
+<style scoped>
+  #example-one { margin-bottom: 10px; }
+  [contenteditable="true"] { padding: 10px; outline: 2px dashed #CCC; }
+  [contenteditable="true"]:hover { outline: 2px dashed #0090D2; }
+</style>
+<p>Everything contained within this div is editable in browsers that support <code>HTML5</code>. Go on, give it a try: click it and start typing.</p>
+</div>
+
+</body>
+</html>

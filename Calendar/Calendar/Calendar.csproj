@@ -71,6 +71,7 @@
     <Content Include="libs\jquery-ui-1.8.11.custom.min.js" />
     <Content Include="libs\jquery-ui-1.8.4.custom.min.js" />
     <Content Include="libs\jquery-ui-i18n.js" />
+    <Content Include="poc.htm" />
     <Content Include="skins\default.css" />
     <Content Include="skins\gcalendar.css" />
     <Content Include="Web.config" />

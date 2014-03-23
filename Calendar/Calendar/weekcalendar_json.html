@@ -48,6 +48,7 @@
     }
 
     function drag(ev) {
+        console.log(ev.target);
         ev.dataTransfer.setData("Text", ev.target.id);
     }
 
@@ -60,10 +61,11 @@
     }
 
     function addEventToCalendar() {
-        //$('#calendar').data.push({ id: "2", "start": "2014-03-16T23:00:00.000", "end": "2009-05-03T23:30:00.000", "free": false });
-        var event = { "id": 2, "start": "2014-03-19T22:30:00.000", "end": "2014-03-19T23:15:00.000", "title": "Schaapjes kijken"};
+        var event = { "id": 2, "start": "2014-03-19T22:30:00.000", "end": "2014-03-19T23:15:00.000", "title": "Schaapjes kijken" };
+        // In typical jquery-ui fashion methods are called by passing a method name string as the first argument to the calendar object
+        // updateEvent updates in case id is the same or creates when it is not
         $("#calendar").weekCalendar("updateEvent", event);
-       //$('#calendar').createNewEvents(evts);
+ 
     }
 
 // start calendar stuff
