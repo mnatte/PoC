@@ -50,6 +50,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="libs\knockout3.1.js" />
+    <Content Include="poc3.htm" />
+    <Content Include="poc2.htm" />
     <Content Include="jquery.weekcalendar.css" />
     <Content Include="jquery.weekcalendar.js" />
     <Content Include="libs\css\smoothness\images\ui-bg_flat_0_aaaaaa_40x100.png" />
@@ -72,8 +75,11 @@
     <Content Include="libs\jquery-ui-1.8.4.custom.min.js" />
     <Content Include="libs\jquery-ui-i18n.js" />
     <Content Include="poc.htm" />
+    <Content Include="scripts\contentEditable.js" />
     <Content Include="skins\default.css" />
     <Content Include="skins\gcalendar.css" />
+    <Content Include="step5.html" />
+    <Content Include="styles.css" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

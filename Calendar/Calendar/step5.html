@@ -4,6 +4,9 @@
 <meta charset="utf-8" />
 <title>Sticky notes using CSS3 and Google Fonts (Step 5)</title>
 <link  href="http://fonts.googleapis.com/css?family=Reenie+Beanie:regular" rel="stylesheet" type="text/css"> 
+<script type='text/javascript' src='libs/jquery-2.1.0.js'></script>
+<script type='text/javascript' src='libs/knockout3.1.js'></script>
+<script type='text/javascript' src='scripts/ko.bindingHandlers.contentEditable.js'></script>
  <script type='text/javascript'>
   //drag drop stuff not connected to calendar
     function allowDrop(ev) {
@@ -21,7 +24,7 @@
         var data = ev.dataTransfer.getData("card");
         console.log(data);
         ev.target.appendChild(document.getElementById(data));
-        alert(data);
+        alert(content);
         //addEventToCalendar();
     }
 
@@ -30,8 +33,16 @@
         // In typical jquery-ui fashion methods are called by passing a method name string as the first argument to the calendar object
         // updateEvent updates in case id is the same or creates when it is not
         $("#calendar").weekCalendar("updateEvent", event);
- 
     }
+
+    $(document).ready(function () {
+        var viewModel = {
+            editable: ko.observable(false),
+            content: ko.observable("Initial Title"),
+        };
+        //console.log(viewModel.content());
+        ko.applyBindings(viewModel);
+    });
     </script>
 <style type="text/css">
 *{
@@ -249,7 +260,7 @@ ol li a{color:#fff;}
     </li>
     <li id="card8" draggable="true" ondragstart="drag(event)">
         <div>
-            <h2 contenteditable="true">Title #8</h2>
+            <h2 data-bind="contentEditable: editable, htmlLazy: content">New Title</h2>
             <p contenteditable="true">Text Content #8</p>
         </div>
     </li>
@@ -258,6 +269,8 @@ ol li a{color:#fff;}
   <div id="target" ondrop="drop(event)" ondragover="allowDrop(event)">
   <ul>Drop here</ul>
   </div>
+
+  <div id="Div1" data-bind="text: content"></div>
 
 </body>
 </html>
